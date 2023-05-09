@@ -30,7 +30,7 @@ poetry shell
 Poetry will install all your dependencies in a newly created virtual environment. To verify that everything works correctly you can run the following command:
 
 ```shell
-python3 -c "import flwr"
+python -c "import flwr"
 ```
 
 If you don't see any errors you're good to go!
@@ -40,7 +40,7 @@ If you don't see any errors you're good to go!
 Afterwards you are ready to start the Flower server as well as the clients. You can simply start the server in a terminal as follows:
 
 ```shell
-python3 server.py
+python server.py
 ```
 
 Now you are ready to start the Flower clients which will participate in the learning. To do so simply open two more terminal windows and run the following commands.
@@ -48,15 +48,16 @@ Now you are ready to start the Flower clients which will participate in the lear
 Start client 1 in the first terminal:
 
 ```shell
-python3 client.py
+python client.py
 ```
 
 Start client 2 in the second terminal:
 
 ```shell
-python3 client.py
+python client.py
 ```
 
 You will see that PyTorch is starting a federated training.
 
 # Notes
+
