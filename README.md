@@ -54,10 +54,11 @@ python client.py
 Start client 2 in the second terminal:
 
 ```shell
-python client.py
+python client-two.py
 ```
 
 You will see that PyTorch is starting a federated training.
 
 # Notes
 
+I have made some personal notes through the project implementation which I have included here.
