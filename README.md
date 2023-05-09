@@ -61,6 +61,6 @@ You will see that PyTorch is starting a federated training.
 
 # Notes
 
-I have made some personal notes through the project implementation which I have included [here](https://github.com/ShekharReddy4/EfficientFederatedLearning/blob/master/Project-Documentation/CS%207001%20-%20Independent%20Study%20-Efficient%20Federated%20L%2013b14d14f36f4d689c6bc07a84efabf4.md).
+I have made some notes through the project implementation which I have included [here](https://github.com/ShekharReddy4/EfficientFederatedLearning/blob/master/Project-Documentation/CS%207001%20-%20Independent%20Study%20-Efficient%20Federated%20L%2013b14d14f36f4d689c6bc07a84efabf4.md).
 
 The same could be tracked on this shared Notion [Page](https://shekharreddy4.notion.site/shekharreddy4/CS-7001-Independent-Study-Efficient-Federated-Learning-13b14d14f36f4d689c6bc07a84efabf4)
